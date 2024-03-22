@@ -141,9 +141,9 @@
     <div>
       <h3>redes sociales</h3>
       <ul>
-        <li><a href="https://m.facebook.com/people/Nicolas-Turcy-Santos/100009155986728/">facebook</a></li>
-        <li><a href="https://co.linkedin.com/in/nicolas-turcy-santos-8094a32b0">linkedin</a></li>
-        <li><a href="https://www.youtube.com/channel/UCzBBx0OyK6cky-dCzhav7dA">youtube</a></li>
+      <li><a href="https://m.facebook.com/people/Nicolas-Turcy-Santos/100009155986728/"><i class="fa-brands fa-facebook"></i></a></li>
+        <li><a href="https://co.linkedin.com/in/nicolas-turcy-santos-8094a32b0"><i class="fa-brands fa-linkedin"></i></a></li>
+        <li><a href="https://www.youtube.com/channel/UCzBBx0OyK6cky-dCzhav7dA"><i class="fa-brands fa-youtube"></i></a></li>
       </ul>
     </div>
     <div>

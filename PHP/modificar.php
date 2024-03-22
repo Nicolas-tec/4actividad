@@ -10,6 +10,7 @@ $sql=$conexion->query("SELECT * FROM notas WHERE Id_estudiante=$Id_estudiante");
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>modificar estudiante</title>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
+    <script src="https://kit.fontawesome.com/d73986632c.js" crossorigin="anonymous"></script>
     <style>
         .center-form {
             display: flex;
@@ -90,9 +91,9 @@ $sql=$conexion->query("SELECT * FROM notas WHERE Id_estudiante=$Id_estudiante");
     <div>
       <h3>redes sociales</h3>
       <ul>
-        <li><a href="https://m.facebook.com/people/Nicolas-Turcy-Santos/100009155986728/">facebook</a></li>
-        <li><a href="https://co.linkedin.com/in/nicolas-turcy-santos-8094a32b0">linkedin</a></li>
-        <li><a href="https://www.youtube.com/channel/UCzBBx0OyK6cky-dCzhav7dA">youtube</a></li>
+        <li><a href="https://m.facebook.com/people/Nicolas-Turcy-Santos/100009155986728/"><i class="fa-brands fa-facebook"></i></a></li>
+        <li><a href="https://co.linkedin.com/in/nicolas-turcy-santos-8094a32b0"><i class="fa-brands fa-linkedin"></i></a></li>
+        <li><a href="https://www.youtube.com/channel/UCzBBx0OyK6cky-dCzhav7dA"><i class="fa-brands fa-youtube"></i></a></li>
       </ul>
     </div>
     <div>
