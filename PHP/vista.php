@@ -11,8 +11,8 @@
             width: 350px; 
         }
         th {
-            background-color: #dc3545; /* Cambia este color a uno que desees */
-            color: red; /* Cambia el color del texto si es necesario */
+            background-color: #dc3545; 
+            color: red; 
         }
         .link-container {
             display: flex;
